@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'fazibear.me', path: "../fazibear.me"
+gem 'fazibear.me', github: "fazibear/fazibear.me"
