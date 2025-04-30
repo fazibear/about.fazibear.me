@@ -1,0 +1,23 @@
+title: Programming Adventures with Michał Kalbarczyk
+author: Michał Kalbarczyk
+description: Programming Adventures with Michał Kalbarczyk
+url: "https://about.fazibear.me"
+ga: "G-4093L52QLW"
+nav_logo: about.fazibear.me
+primary_color: "#d4d200"
+
+visitors:
+  path: fazibear.me
+
+theme: "fazibear.me"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "terminal"
