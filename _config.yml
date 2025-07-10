@@ -8,6 +8,8 @@ primary_color: "#d4d200"
 
 visitors:
   path: fazibear.me
+  label: "000000"
+  count: "000000"
 
 theme: "fazibear.me"
 
